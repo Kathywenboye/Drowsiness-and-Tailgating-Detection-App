@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" android:layout_height="fill_parent"
+    android:background="@drawable/car_background"
+    android:focusable="true"
+    android:focusableInTouchMode="true" >
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/inputName"
+        android:textColorHint="@color/black"
+        android:id="@+id/userinput"
+        android:imeOptions="actionDone"
+        android:singleLine="true"
+        android:width="220dp"
+        android:layout_marginTop="58dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/startbutton" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/UserName"
+        android:textColor="@color/red"
+        android:id="@+id/username"
+        android:width="100dp"
+        android:height="50dp"
+        android:textSize="20dp"
+        android:layout_alignTop="@+id/userinput"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@+id/userinput" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete"
+        android:id="@+id/deletebutton"
+        android:onClick="ondeleteclick"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start"
+        android:id="@+id/startbutton"
+        android:onClick="onstartclick"
+        android:layout_alignTop="@+id/deletebutton"
+        android:layout_alignLeft="@+id/doneenter" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/output"
+        android:width="300dp"
+        android:textColor="@color/red"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/doneenter"
+        android:layout_below="@+id/userinput"
+        android:layout_alignParentRight="true"
+        android:onClick="ondoneenterclick"
+        android:text="Done" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="@string/app"
+        android:textSize="20dp"
+        android:textColor="@color/white"
+        android:background="@color/black"
+        android:textStyle="bold"
+        android:gravity="fill_vertical"
+        android:id="@+id/textView2"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/username"
+        android:layout_alignParentLeft="true" />
+</RelativeLayout>

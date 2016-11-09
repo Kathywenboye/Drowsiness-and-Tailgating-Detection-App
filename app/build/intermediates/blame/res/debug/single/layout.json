@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/res/merged/debug/layout/popwindow.xml",
+        "source": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/src/main/res/layout/popwindow.xml"
+    },
+    {
+        "merged": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/res/merged/debug/layout/face_detect_surface_view.xml",
+        "source": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/src/main/res/layout/face_detect_surface_view.xml"
+    },
+    {
+        "merged": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/res/merged/debug/layout/user.xml",
+        "source": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/src/main/res/layout/user.xml"
+    },
+    {
+        "merged": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/res/merged/debug/layout/activity_car_detection.xml",
+        "source": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/src/main/res/layout/activity_car_detection.xml"
+    },
+    {
+        "merged": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/res/merged/debug/layout/car_detect_surface_view.xml",
+        "source": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/src/main/res/layout/car_detect_surface_view.xml"
+    }
+]

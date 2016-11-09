@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/res/merged/debug/raw/haarcascade_eye_tree_eyeglasses.xml",
+        "source": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/src/main/res/raw/haarcascade_eye_tree_eyeglasses.xml"
+    },
+    {
+        "merged": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/res/merged/debug/raw/haarcascade_righteye_2splits.xml",
+        "source": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/src/main/res/raw/haarcascade_righteye_2splits.xml"
+    },
+    {
+        "merged": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/res/merged/debug/raw/cars3.xml",
+        "source": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/src/main/res/raw/cars3.xml"
+    },
+    {
+        "merged": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/res/merged/debug/raw/haarcascade_mcs_lefteye.xml",
+        "source": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/src/main/res/raw/haarcascade_mcs_lefteye.xml"
+    },
+    {
+        "merged": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/res/merged/debug/raw/haarcascade_lefteye_2splits.xml",
+        "source": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/src/main/res/raw/haarcascade_lefteye_2splits.xml"
+    },
+    {
+        "merged": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/res/merged/debug/raw/lbpcascade_frontalface.xml",
+        "source": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/src/main/res/raw/lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/res/merged/debug/raw/eyes.xml",
+        "source": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/src/main/res/raw/eyes.xml"
+    },
+    {
+        "merged": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/res/merged/debug/raw/haarcascade_frontalface_alt.xml",
+        "source": "/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/src/main/res/raw/haarcascade_frontalface_alt.xml"
+    }
+]

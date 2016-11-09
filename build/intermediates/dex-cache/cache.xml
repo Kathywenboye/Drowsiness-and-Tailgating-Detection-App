@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/catherine_ye/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/pre-dexed/debug/gson-2.3_6a547141830088bd023acb6e52a1533503119210.jar" />
+    </item>
+    <item
+        jar="/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="668bf974c10ee96210bc00f844c4180c219785c1">
+        <dex dex="/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/pre-dexed/debug/instant-run_d1b9794516c32cbb54442c4ccf6e43ab2eaea7b5.jar" />
+    </item>
+    <item
+        jar="/Users/catherine_ye/Documents/software/android-sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_78b7449313b9e6bcab4edbc69230262b88c098e1.jar" />
+    </item>
+    <item
+        jar="/Users/catherine_ye/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/pre-dexed/debug/guava-18.0_7645eca613f132b78ef29417ff1f1f2cf4a5aece.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/pre-dexed/debug/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315.jar" />
+    </item>
+    <item
+        jar="/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="539980712edbc6a56003d50a5a1b2a7bc6bca082">
+        <dex dex="/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_92ae679f6f8f673143051cae090ac32575621a54.jar" />
+    </item>
+    <item
+        jar="/Users/catherine_ye/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/2.6.1/d9521f2aecb909835746b7a5facf612af5e890e8/protobuf-java-2.6.1.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="d9521f2aecb909835746b7a5facf612af5e890e8">
+        <dex dex="/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/pre-dexed/debug/protobuf-java-2.6.1_5a981215df93aa86dd4b94acfc82f9b8fa6f1d9f.jar" />
+    </item>
+    <item
+        jar="/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/exploded-aar/com.openxcplatform/library/6.1.6/jars/classes.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="bf30d75f91600b77f7f381cd957c8fc754501221">
+        <dex dex="/Users/catherine_ye/Documents/graduateStudy/202A/Drowsiness and tailgating detection app/app/build/intermediates/pre-dexed/debug/com.openxcplatform-library-6.1.6_4e690c6dfbe7022148089fd4593f51d9e5231c2c.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="UserName">User Name: </string>
+    <string name="inputName">Type in your name.</string>
+    <string name="tailgating_test">Hello,world</string>
+    <string name="On_Brake">Brake</string>
+    <string name="No_Brake">No Brake</string>
+    <string name="action_settings">Settings</string>
+    <string name="app">Drowsy and Tailgating App</string>
+
+</resources>
